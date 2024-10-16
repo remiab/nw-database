@@ -7,7 +7,7 @@ INSERT INTO priarworld (firstname, rollnumber) VALUES ('Tanmay',5);
 INSERT INTO team5 (firstname, rollnumber) VALUES ('Ewan',1);
 INSERT INTO team5 (firstname, rollnumber) VALUES ('John',2);
 INSERT INTO team5 (firstname, rollnumber) VALUES ('Paul',3);
-INSERT INTO team5 (firstname, rollnumber) VALUES ('Remi',4);
+INSERT INTO team5 (firstname, rollnumber) VALUES ('Remi',5);
 
 INSERT INTO foods (food, rollnumber) VALUES ('pizza',1);
 INSERT INTO foods (food, rollnumber) VALUES ('chicken',2);
